@@ -21,7 +21,7 @@ def get_Percent(a, b):
 def get_Sum_ver1(n):
   return n(n-1)/2
 def factorial(n):
-  num = 10
+  num = 100
   while n >= 1:
     num = num * n
     n = n - 1
